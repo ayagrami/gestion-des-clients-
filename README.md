@@ -98,4 +98,3 @@ npm test               # Lance les tests unitaires
 
 ---
 
-⭐ **N'oubliez pas de mettre une étoile si ce projet vous a aidé !**
